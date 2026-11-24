@@ -1,3 +1,4 @@
+<p align="right"><b>Português</b> · <a href="README.en.md">English</a></p>
 <p align="center"><img src="docs/icon.png" width="88" alt="Ícone do Tagwise"></p>
 <h1 align="center">Tagwise</h1>
 <p align="center">Organizador de biblioteca musical para Windows.<br>
@@ -30,6 +31,7 @@ No modo **Copiar**, os arquivos originais não são alterados. Toda organizaçã
 | **Capas e letras** | Busca capas e letras, sincronizadas quando disponíveis. |
 | **Organização** | Copia, move ou reorganiza no lugar, com prévia das pastas, formatos prontos ou personalizado e opção de desfazer. |
 | **Desempenho** | Lê várias músicas ao mesmo tempo e reduz o ritmo quando o computador está ocupado. Funciona com pastas de rede (NAS). |
+| **Idiomas** | Português do Brasil, inglês e espanhol. |
 
 ## Como funciona
 
@@ -58,6 +60,8 @@ Confira a prévia das pastas antes de confirmar.
 
 > **"O Windows protegeu o computador"?** O instalador ainda não tem assinatura digital. Clique em **Mais informações** e depois em **Executar assim mesmo**.
 
+**Idioma:** o Tagwise segue o idioma do Windows. Para trocar, abra **Configurações → Idioma**.
+
 **Atualizações:** ao abrir, o Tagwise verifica se há versão nova e pergunta antes de instalar.
 
 **Requisitos:** Windows 10 ou 11. Internet para as pesquisas online.
@@ -73,7 +77,7 @@ Confira a prévia das pastas antes de confirmar.
 
 - Músicas regionais, inéditas ou pouco divulgadas podem não existir nas fontes online.
 - Nem toda música tem prévia para conferir o som, nem letra disponível.
-- A interface está disponível em português do Brasil.
+- As notas das versões são, na maioria, em português.
 
 ## Problemas e sugestões
 
